@@ -24,7 +24,7 @@ class ImageClassifier(nn.Module):
       nn.Conv2d(32, 64, (3, 3)),
       nn.ReLU(),
       nn.Conv2d(64, 64, (3, 3)),
-      nn.ReLu(),
+      nn.ReLU(),
       nn.Flatten(),
       nn.Linear(64*(28-6)*(28-6),10)
     )
