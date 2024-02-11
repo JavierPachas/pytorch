@@ -1,1 +1,1 @@
-# dl_pytorch_nn
+# Diffusion Model from scratch with PyTorch
