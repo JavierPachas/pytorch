@@ -1,5 +1,8 @@
 # Diffusion Model from scratch with PyTorch
 
+python diffusion_model.py
+
+
 This will train the diffusion model for a specified number of epochs on the FashionMNIST dataset.
 
 ## Model Architecture
